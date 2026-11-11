@@ -4,6 +4,7 @@
 
 | Aluno | Tarefa 1 |
 |:--|:-:|
+| [AlexandreFreitas64](https://github.com/AlexandreFreitas64) | ✅ |
 | [Bryanhoe532](https://github.com/Bryanhoe532) | ✅ |
 | [claudiomf7](https://github.com/claudiomf7) | ✅ |
 | [cleciobf](https://github.com/cleciobf) | ✅ |
@@ -20,7 +21,7 @@
 | [rafaelh4mu](https://github.com/rafaelh4mu) | ✅ |
 | [YanLopesFA](https://github.com/YanLopesFA) | ✅ |
 
-✅ = tarefa concluída. 15 de 37 alunos já registraram o usuário em `lista-usuarios.txt` (22 ainda não).
+✅ = tarefa concluída. 16 de 38 alunos já registraram o usuário em `lista-usuarios.txt` (22 ainda não).
 
 ## Tarefas
 
