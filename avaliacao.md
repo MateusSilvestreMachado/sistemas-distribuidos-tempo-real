@@ -21,7 +21,7 @@
 | [rafaelh4mu](https://github.com/rafaelh4mu) | ✅ |
 | [YanLopesFA](https://github.com/YanLopesFA) | ✅ |
 
-✅ = tarefa concluída. 16 de 38 alunos já registraram o usuário em `lista-usuarios.txt` (22 ainda não).
+✅ = tarefa concluída. 16 de 37 alunos já registraram o usuário em `lista-usuarios.txt` (21 ainda não).
 
 ## Tarefas
 
